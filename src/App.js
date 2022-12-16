@@ -1,13 +1,10 @@
 import "./App.css";
+import Footer from "./Pages/Footer/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <h1> Welcome webCracker</h1>
-      <h1> Fork by Nafisa</h1>
-      <h1>Hello from salma</h1>
-      <h1>Hello from salma 2</h1>
-      <h1>Hello from Masum</h1>
+    <div>
+      <Footer />
     </div>
   );
 }
